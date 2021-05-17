@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/contact-card-template/static/css/main.7c2ef4f4.chunk.css",
+    "main.js": "/contact-card-template/static/js/main.1dfac94a.chunk.js",
+    "main.js.map": "/contact-card-template/static/js/main.1dfac94a.chunk.js.map",
+    "runtime-main.js": "/contact-card-template/static/js/runtime-main.6bfd2920.js",
+    "runtime-main.js.map": "/contact-card-template/static/js/runtime-main.6bfd2920.js.map",
+    "static/js/2.4e5f94be.chunk.js": "/contact-card-template/static/js/2.4e5f94be.chunk.js",
+    "static/js/2.4e5f94be.chunk.js.map": "/contact-card-template/static/js/2.4e5f94be.chunk.js.map",
+    "static/js/3.66169005.chunk.js": "/contact-card-template/static/js/3.66169005.chunk.js",
+    "static/js/3.66169005.chunk.js.map": "/contact-card-template/static/js/3.66169005.chunk.js.map",
+    "index.html": "/contact-card-template/index.html",
+    "static/css/main.7c2ef4f4.chunk.css.map": "/contact-card-template/static/css/main.7c2ef4f4.chunk.css.map",
+    "static/js/2.4e5f94be.chunk.js.LICENSE.txt": "/contact-card-template/static/js/2.4e5f94be.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/contact-card-template/static/media/background-img.748c7c90.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bfd2920.js",
+    "static/js/2.4e5f94be.chunk.js",
+    "static/css/main.7c2ef4f4.chunk.css",
+    "static/js/main.1dfac94a.chunk.js"
+  ]
+}
