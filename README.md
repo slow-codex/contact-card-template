@@ -16,7 +16,7 @@ If you want to edit this template for your own use please read below carefully.
 
 1. Download the given code as a zip or the full main branch.
 
-2. Downloading and Installing any Code Editor for a simple edit of the database:
+2. Downloading and Instal any Code Editor for a simple edit of the database:
 
 | **Code Editor** | **Link** 	|
 |-	|-	|
