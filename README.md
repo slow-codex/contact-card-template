@@ -6,7 +6,7 @@
 
 In this repository I made a simple Web Application using ReactJS,that is a contact card template.
 
-You can visit the deployed app, at [https://slowcodex.github.io/react-click-counter/](https://slow-codex.github.io/react-click-counter/).
+You can visit the deployed app, at [Contact Card Template](https://slow-codex.github.io/react-click-counter/).
 
 This repository contains the files related to the app. The `master` branch contains the app's source code (the code the app's developers edit), and the `gh-pages` branch contains a *built* version of the app (i.e. the code that GitHub Pages serves to the app's visitors).
 
