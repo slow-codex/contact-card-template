@@ -25,7 +25,7 @@ If you want to edit this template for your own use please read below carefully.
 | Atom 	| [Download it from here](https://atom.io/)	|
 
 
-3. Go to Database Folder in the given code and open contactData.js file in the code editor.
+3. Go to src Folder then Database Folder in the given code and open contactData.js file in the code editor.
 
 4. Just edit the informations of the contacts accordingly inide the curly braces. By just updating ur database u can get ur edited contact card web page as u prefer.
 
