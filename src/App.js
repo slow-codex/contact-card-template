@@ -1,25 +1,26 @@
-import logo from './logo.svg';
+import React from "react";
+import ContactCard from "./components/ContactCard.jsx";
 import './App.css';
+import contactData from './Database/contactData.js';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    const contactComponents = contactData.map(function(c){
+        return(
+            <ContactCard 
+                key={c.id}
+                imgUrl={c.imgUrl}
+                name={c.name}
+                phone={c.phone}
+                email={c.email}
+                adress={c.adress}
+            />
+        )
+    });
+    return (
+        <div className="contacts">
+            {contactComponents}
+        </div>
+    );
 }
 
 export default App;
