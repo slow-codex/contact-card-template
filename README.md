@@ -32,7 +32,7 @@ If you want to edit this template for your own use please read below carefully.
 5. If you face any problem in deploying your edited contact card webpage refer to my procedure tutorial [React Hosting Tutorial using GitHub pages](https://github.com/slow-codex/react-click-counter)
 
 
-## License
+# License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
