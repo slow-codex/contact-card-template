@@ -27,7 +27,7 @@ If you want to edit this template for your own use please read below carefully.
 
 3. Go to Database Folder in the given code and open contactData.js file in the code editor.
 
- 4.Just edit the informations of the contacts accordingly inide the curly braces. By just updating ur database u can get ur edited contact card web page as u prefer.
+4. Just edit the informations of the contacts accordingly inide the curly braces. By just updating ur database u can get ur edited contact card web page as u prefer.
 
 5. If you face any problem in deploying your edited contact card webpage refer to my procedure tutorial [React Hosting Tutorial using GitHub pages](https://github.com/slow-codex/react-click-counter)
 
